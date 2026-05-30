@@ -24,5 +24,6 @@ The `published-writing/` folder contains formatted PDF samples. The strongest an
 The `short-theses/` folder contains GitHub-readable Markdown versions of the strongest short pieces:
 
 - `agent-economy-token-problem.md`
+- `neoclouds-ai-cycle-miners.md`
 - `yield-trade-defi-costume.md`
 - `rwa-market-monitor-template.md`

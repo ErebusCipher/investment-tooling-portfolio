@@ -65,7 +65,7 @@ Selected market and protocol research samples covering:
 - Market cascade mechanics
 - AI-agent knowledge infrastructure
 - formatted PDF essays from the `published-writing/` subfolder, including AI-agent token value capture and RWA market structure notes
-- Markdown short theses on AI-agent token economics and RWA market structure
+- Markdown short theses on AI-agent token economics, neocloud infrastructure, and RWA market structure
 
 ## Anonymity Note
 

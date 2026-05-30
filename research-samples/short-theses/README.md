@@ -3,6 +3,7 @@
 Markdown versions of the most application-relevant short essays from the local writing archive.
 
 - `agent-economy-token-problem.md`: argues that many AI-agent tokens are priced as if they capture agent-economy value, while their architecture leaves economic activity outside token jurisdiction.
+- `neoclouds-ai-cycle-miners.md`: argues that neoclouds should be underwritten like AI-cycle miners - scarce physical infrastructure during a reflexive compute shortage, with real upside and real overcapacity risk.
 - `yield-trade-defi-costume.md`: argues that the RWA market is mostly a tokenized yield-wrapper trade today, not yet a composability breakthrough.
 - `rwa-market-monitor-template.md`: repeatable weekly RWA monitor format combining automated data sections with analyst judgment.
 
