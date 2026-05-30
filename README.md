@@ -64,6 +64,7 @@ Selected market and protocol research samples covering:
 - Catalyst scenario planning
 - Market cascade mechanics
 - AI-agent knowledge infrastructure
+- formatted PDF essays from the `published-writing/` subfolder, including AI-agent token value capture and RWA market structure notes
 
 ## Anonymity Note
 

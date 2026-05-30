@@ -10,3 +10,11 @@ Selected samples showing market structure thinking, protocol analysis, catalyst 
 - `catalyst-scenario-war-gaming.md`: event planning and trade reaction framework.
 - `market-mechanics-cascade-framework.md`: reflexivity, cascades, and forced-flow mechanics.
 - `epistemic-stack-ai-agents.md`: AI-agent knowledge infrastructure and trust-layer thesis.
+
+## Published PDFs
+
+The `published-writing/` folder contains formatted PDF samples. The strongest analyst-application pieces are:
+
+- `The Agent Economy Has a Token Problem.pdf`
+- `The Yield Trade Wearing a DeFi Costume.pdf`
+- `RWA Market Monitor.pdf`
