@@ -21,7 +21,6 @@ For fund or analyst-role review, start here:
 Pseudonymous analyst application materials:
 
 - Anonymized CV
-- Draft application email
 - Curated review path
 - DeFiLlama contribution links
 
@@ -88,7 +87,7 @@ Selected market and protocol research samples covering:
 
 ## Anonymity Note
 
-The author is applying pseudonymously at the first stage. Full identity, references, and verification can be provided later if there is serious mutual interest.
+The author is applying anonymously because the packet touches recent and current professional work.
 
 ## Safety
 
