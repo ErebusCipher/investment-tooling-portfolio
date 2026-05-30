@@ -1,0 +1,15 @@
+{
+  "unitValue": 1000,
+  "positions": [
+    { "ticker": "SMH",  "units": 12, "type": "etf",    "label": "Semiconductors",     "entryPrice": null },
+    { "ticker": "AIQ",  "units": 8,  "type": "etf",    "label": "AI Infrastructure",  "entryPrice": null },
+    { "ticker": "PICK", "units": 8,  "type": "etf",    "label": "Metals & Mining",    "entryPrice": null },
+    { "ticker": "CPER", "units": 6,  "type": "etf",    "label": "Copper",             "entryPrice": null },
+    { "ticker": "ITA",  "units": 7,  "type": "etf",    "label": "Defence",            "entryPrice": null },
+    { "ticker": "QQQ",  "units": 10, "type": "etf",    "label": "Large-Cap Tech",     "entryPrice": null },
+    { "ticker": "BTC",  "units": 5,  "type": "crypto", "label": "Bitcoin",            "entryPrice": null },
+    { "ticker": "PLTR", "units": 0,  "type": "stock",  "label": "AI Software Proxy",  "entryPrice": null, "watchlist": true }
+  ],
+  "cash": { "gbp": 0, "usd": 15 },
+  "crashPlaybook": "Sample playbook: if broad risk assets draw down sharply while AI capex and infrastructure fundamentals remain intact, deploy cash into liquid index exposure first, then rotate into the highest-conviction bottleneck themes after volatility compresses."
+}

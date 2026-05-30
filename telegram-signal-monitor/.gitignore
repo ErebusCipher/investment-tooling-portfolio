@@ -1,0 +1,7 @@
+.env
+*.session
+__pycache__/
+*.pyc
+*.pyo
+signal_log.jsonl
+.DS_Store

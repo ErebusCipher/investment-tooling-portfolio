@@ -1,0 +1,59 @@
+{
+  "years": {
+    "2026": {
+      "macroRegime": "Illustrative regime map: AI infrastructure capex remains the dominant secular trend, while energy, grid, semiconductors, defence, and cybersecurity act as bottleneck beneficiaries. Liquidity and geopolitics determine sizing.",
+      "themes": [
+        {
+          "id": "ai-infra-bottlenecks",
+          "name": "AI Infrastructure Bottlenecks",
+          "conviction": 4,
+          "thesis": "Compute demand pulls forward demand for semiconductors, memory, networking, cooling, power, and data-centre construction. The core question is where scarcity converts into durable pricing power rather than cyclical overbuild.",
+          "tickers": ["SMH", "AIQ", "QQQ"],
+          "entryThesis": "Add when capex guidance remains strong but valuation compresses with broad risk-off.",
+          "exitThesis": "Order books soften, utilization rolls over, or model efficiency improvements reduce hardware intensity faster than expected.",
+          "riskCase": "Supply response arrives faster than demand; peak multiple precedes peak shipments."
+        },
+        {
+          "id": "materials-power",
+          "name": "Power, Grid & Critical Materials",
+          "conviction": 5,
+          "thesis": "AI datacentres convert digital demand into physical bottlenecks: power availability, transformers, copper, cooling, and permitting. These areas are less glamorous than model labs but may have better supply/demand asymmetry.",
+          "tickers": ["CPER", "REMX", "PICK"],
+          "entryThesis": "Prefer pullbacks driven by macro growth scares over evidence of actual demand destruction.",
+          "exitThesis": "Datacentre power demand forecasts are revised down or commodity supply becomes visibly unconstrained.",
+          "riskCase": "Global recession overwhelms structural demand; commodity beta dominates thesis."
+        },
+        {
+          "id": "defence",
+          "name": "Autonomous Defence & Dual Use",
+          "conviction": 4,
+          "thesis": "Modern warfare is shifting toward cheap autonomous systems, ISR, simulation, battlefield connectivity, and counter-drone defence. Public defence baskets provide liquid exposure while private markets capture the most interesting startup layer.",
+          "tickers": ["ITA", "SHLD"],
+          "entryThesis": "Hold as structural hedge to geopolitical volatility and rising defence budgets.",
+          "exitThesis": "Budget growth decelerates or procurement reform fails to reach new entrants.",
+          "riskCase": "Large primes absorb budget while startups struggle to convert prototypes into procurement."
+        },
+        {
+          "id": "crypto-ai-settlement",
+          "name": "Crypto Rails for Agentic Workflows",
+          "conviction": 3,
+          "thesis": "Autonomous agents need payments, identity, reputation, and settlement rails. Crypto is not required for every AI workflow, but it is unusually well-suited to permissionless value transfer and machine-readable settlement.",
+          "tickers": ["BTC"],
+          "entryThesis": "Track actual transaction volume, fee capture, and retention rather than narrative alone.",
+          "exitThesis": "Agents centralize around closed payment APIs and avoid crypto settlement.",
+          "riskCase": "Speculation outruns usage; token value capture remains indirect."
+        },
+        {
+          "id": "adversarial-ai",
+          "name": "Adversarial AI & Cybersecurity",
+          "conviction": 5,
+          "thesis": "AI expands the attack surface: phishing, code exploits, identity fraud, bot activity, and agent governance failures. Security is one of the cleaner software exceptions to the view that incumbents capture most AI application value.",
+          "tickers": ["PANW", "CRWD", "ZS"],
+          "entryThesis": "Prefer assets with demonstrated enterprise distribution and AI-native product expansion.",
+          "exitThesis": "Security budgets flatten or AI-driven threat growth fails to translate into incremental spend.",
+          "riskCase": "Incumbent platforms bundle away specialist margins."
+        }
+      ]
+    }
+  }
+}

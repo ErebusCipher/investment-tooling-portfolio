@@ -1,0 +1,17 @@
+{
+  "events": [
+    {
+      "id": "example-1",
+      "date": "2026-07-15",
+      "name": "Example: Large Token Unlock",
+      "type": "Unlock",
+      "description": "Illustrative event card showing how the terminal stores pre-event setup, likely reaction, contrarian read, execution plan, and invalidation logic.",
+      "likelyReaction": "Market sells ahead of unlock if float expansion is large, holders are in profit, and liquidity is thin.",
+      "contrarianReaction": "If the unlock is already hedged or OTC demand absorbs supply, the event can become a relief rally.",
+      "preTrade": "Track borrow/funding, spot liquidity, holder distribution, and prior unlock reactions two weeks before the event.",
+      "tradeDuring": "Avoid reflexive execution. Watch spot CVD, perp funding reset, and exchange inflows.",
+      "exitCondition": "Close the event trade once supply impact is absorbed or the market stops reacting to unlock-related flows.",
+      "riskCase": "Headline unlock size overstates actual sell pressure because recipients are long-term holders or already hedged."
+    }
+  ]
+}
