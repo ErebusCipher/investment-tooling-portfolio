@@ -2,27 +2,27 @@
 
 ## Scarcity, Reflexivity, and the Risk of Overcapacity
 
-The cleanest analogy for neoclouds is not AWS. It is bitcoin mining.
+AWS is the obvious comparison for neoclouds. Bitcoin mining is the more useful one.
 
 Both businesses monetize a scarce physical input during a period when the market is convinced demand will compound faster than supply. Both convert energy, hardware access, site control, financing, and operational execution into exposure to a reflexive digital cycle. Both look like infrastructure when utilization is high and like leveraged commodity businesses when the cycle turns.
 
-The difference is that bitcoin miners sell hashpower into a transparent commodity market. Neoclouds sell GPU compute into an opaque market where the buyer is often an AI lab, a hyperscaler, an enterprise customer, or a sovereign project with strategic rather than purely economic motives. That opacity is the opportunity and the risk.
+The difference is that bitcoin miners sell hashpower into a transparent commodity market. Neoclouds sell GPU compute into an opaque market where the buyer is often an AI lab, a hyperscaler, an enterprise customer, or a sovereign project with strategic motives sitting alongside normal economics. That opacity is the opportunity and the risk.
 
-The trade is not simply "AI needs compute, buy GPU clouds." That is now consensus. The harder question is where in the stack scarcity converts into durable margin, and where it becomes another capacity cycle wearing secular-growth language. Neoclouds sit directly inside that question.
+"AI needs compute, buy GPU clouds" is already consensus. The harder question is where in the stack scarcity converts into durable margin, and where it becomes another capacity cycle wearing secular-growth language. Neoclouds sit directly inside that question.
 
 ## Why the Bull Case Works
 
 The AI buildout has become the defining capex cycle of the decade. Hyperscalers are spending at a scale that would have looked absurd three years ago, and they are still capacity constrained.
 
-Microsoft said in January 2026 that AI demand continued to exceed available capacity and that capacity constraints would persist through calendar 2026.[^1] Meta guided 2026 capital expenditures to $125-145 billion, driven mainly by AI infrastructure, servers, datacentres, and network equipment.[^2] Amazon and Google are on the same path. This is no longer a software cycle with incidental infrastructure needs. It is a physical buildout cycle where the bottleneck is atoms.
+Microsoft said in January 2026 that AI demand continued to exceed available capacity and that capacity constraints would persist through calendar 2026.[^1] Meta guided 2026 capital expenditures to $125-145 billion, driven mainly by AI infrastructure, servers, datacentres, and network equipment.[^2] Amazon and Google are on the same path. This has moved beyond a software cycle with incidental infrastructure needs. It is a physical buildout cycle where the bottleneck is atoms.
 
-That matters because the hyperscalers cannot solve every bottleneck internally at once. They have balance sheets, distribution, and customer relationships, but they do not have infinite datacentre shells, power interconnects, transformers, networking gear, cooling capacity, HBM supply, or operational bandwidth. When model demand outruns internally available compute, external capacity becomes valuable.
+That matters because the hyperscalers cannot solve every bottleneck internally at once. They have balance sheets, distribution, and customer relationships. They still face limits in datacentre shells, power interconnects, transformers, networking gear, cooling capacity, HBM supply, and operational bandwidth. When model demand outruns internally available compute, external capacity becomes valuable.
 
 That is the neocloud wedge.
 
-CoreWeave is the clean public-market proof point. For 2025, the company reported $5.1 billion of revenue, up 168% year over year, and $66.8 billion of revenue backlog as of December 31, 2025.[^3] Those numbers do not prove durable economics, but they prove one thing conclusively: the market is willing to sign large, long-dated contracts for non-hyperscaler AI compute when supply is scarce.
+CoreWeave is the clean public-market proof point. For 2025, the company reported $5.1 billion of revenue, up 168% year over year, and $66.8 billion of revenue backlog as of December 31, 2025.[^3] Those numbers do not prove durable economics. They do show that buyers are willing to sign large, long-dated contracts for non-hyperscaler AI compute when supply is scarce.
 
-This is why the bitcoin-miner analogy matters. Miners already owned the two inputs the AI cycle suddenly needed: power access and datacentre-adjacent real estate. Bitcoin mining trained operators to acquire cheap energy, manage high-density compute, optimize uptime, finance hardware against volatile digital demand, and survive cycles. Those capabilities are not identical to AI datacentre operation, but they are adjacent enough to make the pivot plausible.
+This is why the bitcoin-miner analogy matters. Miners already owned the two inputs the AI cycle suddenly needed: power access and datacentre-adjacent real estate. Bitcoin mining trained operators to acquire cheap energy, manage high-density compute, optimize uptime, finance hardware against volatile digital demand, and survive cycles. Those capabilities differ from AI datacentre operation, but they are adjacent enough to make the pivot plausible.
 
 Core Scientific's 2024 CoreWeave agreement was the moment the analogy became explicit: a bitcoin miner signed a long-term hosting arrangement to deliver hundreds of megawatts of high-performance compute infrastructure to an AI cloud customer.[^4] The market understood the implication quickly. A miner was no longer just a miner. It was a power-and-site option on the AI infrastructure cycle.
 
@@ -30,11 +30,11 @@ Core Scientific's 2024 CoreWeave agreement was the moment the analogy became exp
 
 The naive view is that hyperscalers should crush this market. They have cheaper capital, better customer relationships, proprietary chips, global infrastructure teams, and existing enterprise distribution. In the long run, that may be mostly true.
 
-But the present market is not a long-run equilibrium. It is a scramble.
+The present market is a scramble, far from long-run equilibrium.
 
-When a market is in scramble mode, second-best capacity clears. The buyer does not ask whether the compute provider has AWS's long-term margin profile. The buyer asks whether the provider can deliver the right GPUs, in the right cluster configuration, with enough networking, at the right location, under a contract that allows the next training run or enterprise deployment to happen now rather than in eighteen months.
+When a market is in scramble mode, second-best capacity clears. The buyer cares less about whether the compute provider has AWS's long-term margin profile and more about whether the provider can deliver the right GPUs, in the right cluster configuration, with enough networking, at the right location, under a contract that allows the next training run or enterprise deployment to happen now instead of eighteen months later.
 
-That is why neoclouds can exist despite structurally weaker positions than hyperscalers. They are not necessarily better businesses. They are faster-moving capacity release valves during a shortage.
+That is why neoclouds can exist despite structurally weaker positions than hyperscalers. Their edge is speed during a shortage, not superior long-run distribution.
 
 The shortage has multiple layers:
 
@@ -59,15 +59,15 @@ Neoclouds may follow a parallel pattern.
 
 First, model demand reprices compute upward. Then GPU cloud economics improve. Then operators raise capital, buy GPUs, secure power, and sign long-term customer contracts. For a while, every rack is valuable because utilization is high and supply is scarce. Then capacity catches up. Hyperscalers bring internal clusters online. Labs optimize inference. Open-source models reduce the need for frontier-scale calls in some workloads. Enterprises discover which AI use cases actually produce ROI and which were pilot theatre. Pricing compresses. Weakly contracted, highly levered GPU clouds become stranded capacity.
 
-The analogy is not perfect. Bitcoin miners sell into a mostly spot-like global hashpower market; neoclouds can lock customers into multi-year contracts. GPU clusters also have resale and redeployment options that ASIC miners often do not. But the economic shape is similar enough to be useful: scarce compute monetized through leveraged physical infrastructure, with capex committed before final demand is fully knowable.
+The analogy has limits. Bitcoin miners sell into a mostly spot-like global hashpower market; neoclouds can lock customers into multi-year contracts. GPU clusters also have resale and redeployment options that ASIC miners often lack. The economic shape is still similar enough to be useful: scarce compute monetized through leveraged physical infrastructure, with capex committed before final demand is fully knowable.
 
-The key investment question is therefore not "will AI demand grow?" It almost certainly will. The question is whether demand grows faster than dedicated AI compute capacity, at prices high enough to justify the leverage and depreciation embedded in the buildout.
+The key investment question is less about whether AI demand grows. It almost certainly will. The harder question is whether demand grows faster than dedicated AI compute capacity, at prices high enough to justify the leverage and depreciation embedded in the buildout.
 
 ## The Unit Economics Question
 
 Neocloud bulls often talk as if backlog equals value. It does not.
 
-Backlog is only valuable if the customer is creditworthy, the contract is enforceable, the delivery timeline is realistic, hardware procurement costs are controlled, utilization remains high, and the compute does not become obsolete faster than depreciation assumptions. A dollar of backlog attached to scarce H100/H200/GB200 capacity in a supply-constrained market is worth a lot. A dollar of backlog attached to late-delivered, high-cost capacity after the shortage clears is worth much less.
+Backlog has to survive several tests: customer credit, contract enforceability, delivery timing, hardware procurement cost, utilization, and the risk that the compute ages faster than depreciation assumptions. A dollar of backlog attached to scarce H100/H200/GB200 capacity in a supply-constrained market is worth a lot. A dollar of backlog attached to late-delivered, high-cost capacity after the shortage clears is worth much less.
 
 The hidden variable is residual value.
 
@@ -83,9 +83,9 @@ The more interesting opportunities sit where a provider has at least one non-rep
 
 1. **Power-first operators.** Companies controlling large, near-term power capacity in constrained regions. Power is harder to conjure than capital.
 
-2. **Converted mining infrastructure.** Miners with real sites, grid access, and management teams capable of upgrading from mining to HPC. Many will fail because AI datacentres are not just bitcoin mines with better chips. The ones that can genuinely operate high-density, networked clusters have strategic option value.
+2. **Converted mining infrastructure.** Miners with real sites, grid access, and management teams capable of upgrading from mining to HPC. Many will fail because AI datacentres require more than bitcoin mines with better chips. The ones that can genuinely operate high-density, networked clusters have strategic option value.
 
-3. **Specialized vertical compute.** Providers tuned for training, inference, fine-tuning, rendering, simulation, defense, or scientific workloads rather than undifferentiated GPU hours.
+3. **Specialized vertical compute.** Providers tuned for training, inference, fine-tuning, rendering, simulation, defense, or scientific workloads, instead of undifferentiated GPU hours.
 
 4. **Sovereign compute partners.** Operators that can satisfy local data, security, and geopolitical requirements for governments that do not want full dependence on US hyperscalers.
 
@@ -93,13 +93,13 @@ The more interesting opportunities sit where a provider has at least one non-rep
 
 6. **Software/orchestration layer.** Neoclouds that become more than hardware lessors by owning scheduling, model deployment, inference optimization, security, or compliance workflows.
 
-The weakest version is a company that raises money to buy Nvidia chips at peak multiples, signs a few headline contracts, and calls itself AI infrastructure. That business may work for a while. It should not be underwritten as a secular compounder.
+The weakest version is a company that raises money to buy Nvidia chips at peak multiples, signs a few headline contracts, and calls itself AI infrastructure. That business may work for a while. Underwriting it as a secular compounder is where the mistake creeps in.
 
 ## What Would Invalidate the Trade
 
 The neocloud thesis is falsifiable. The warning signs are specific.
 
-First: capex digestion. If Microsoft, Amazon, Google, Meta, Oracle, and xAI start showing signs that internal capacity is catching up with demand, external GPU clouds lose pricing power quickly. The first signal will not be falling AI usage. It will be softer contract terms, lower prepayment rates, shorter duration commitments, or delayed expansion options.
+First: capex digestion. If Microsoft, Amazon, Google, Meta, Oracle, and xAI start showing signs that internal capacity is catching up with demand, external GPU clouds lose pricing power quickly. The first signal will probably come through softer contract terms, lower prepayment rates, shorter duration commitments, or delayed expansion options, long before AI usage visibly weakens.
 
 Second: utilization slippage. A neocloud with high headline backlog but uneven cluster utilization is a levered asset owner with a storytelling problem. Utilization is the truth serum.
 
@@ -113,13 +113,13 @@ Sixth: financing stress. Neoclouds are capital-intensive. If rates rise, equity 
 
 ## The Portfolio View
 
-The right way to own the theme is not to make a binary bet that every neocloud becomes AWS 2.0. Most will not.
+The right way to own the theme is to avoid treating every neocloud as a future AWS 2.0. Most will fall short of that.
 
 The better portfolio construction is barbelled.
 
-On one side: own the upstream bottlenecks with stronger structural positions - semicap equipment, foundries, memory, advanced packaging, networking, cooling, power equipment, grid infrastructure, and critical materials. These businesses sell into the buildout regardless of which cloud operator wins.
+One side owns the upstream bottlenecks with stronger structural positions: semicap equipment, foundries, memory, advanced packaging, networking, cooling, power equipment, grid infrastructure, and critical materials. These businesses sell into the buildout regardless of which cloud operator wins.
 
-On the other side: selectively own the operators with real power/site advantage, contracted demand, credible customer diversification, and a path to survive post-shortage pricing. This is where the upside is higher, but the underwriting must look more like cyclicals and project finance than SaaS.
+The other side selectively owns operators with real power/site advantage, contracted demand, credible customer diversification, and a path to survive post-shortage pricing. This is where the upside is higher, but the underwriting must look more like cyclicals and project finance than SaaS.
 
 The crypto-native edge is useful here because crypto investors have already lived this pattern. They have seen infrastructure businesses priced as secular monopolies at the exact moment they were actually entering a capacity cycle. They have seen hardware scarcity turn into overbuild. They have seen debt-financed machines become stranded when the denominator changes. They have also seen the best operators survive the washout and acquire distressed assets at the bottom.
 
@@ -127,7 +127,7 @@ That memory is valuable if applied honestly.
 
 ## Conclusion
 
-The opportunity should be taken seriously. Compute remains scarce, hyperscaler capex is still expanding, and some bitcoin miners do have valuable power and site assets that can be repurposed for AI infrastructure. The mistake is treating those facts as automatic proof of durable equity value.
+The opportunity should be taken seriously. Compute remains scarce, hyperscaler capex is still expanding, and some bitcoin miners do have valuable power and site assets that can be repurposed for AI infrastructure. Those facts still need to be translated into durable equity value.
 
 The correct framing is narrower and more useful: neoclouds are the AI cycle's miners. They monetize physical scarcity during a reflexive digital buildout. The best operators will become strategically important infrastructure companies. The weak ones will become overlevered owners of depreciating GPUs bought at peak scarcity.
 
@@ -135,7 +135,7 @@ The trade works while three things are true: demand exceeds capacity, contracts 
 
 When those conditions stop being true, the story changes fast.
 
-That does not make the theme unattractive. It makes it underwriteable. The job is to separate scarce infrastructure from rented narrative before the market does.
+The theme remains attractive, but only with underwriting discipline. The job is to separate scarce infrastructure from rented narrative before the market does.
 
 ---
 
