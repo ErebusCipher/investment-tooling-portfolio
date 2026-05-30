@@ -10,7 +10,7 @@ The difference is that bitcoin miners sell hashpower into a transparent commodit
 
 The trade is not simply "AI needs compute, buy GPU clouds." That is now consensus. The harder question is where in the stack scarcity converts into durable margin, and where it becomes another capacity cycle wearing secular-growth language. Neoclouds sit directly inside that question.
 
-## The Bull Case Is Real
+## Why the Bull Case Works
 
 The AI buildout has become the defining capex cycle of the decade. Hyperscalers are spending at a scale that would have looked absurd three years ago, and they are still capacity constrained.
 
@@ -73,7 +73,7 @@ The hidden variable is residual value.
 
 If a neocloud buys GPUs at peak scarcity pricing and finances them with debt or lease obligations, the asset must earn enough during its useful high-margin window to cover capital cost before pricing normalizes. That window may be long if AI demand remains explosive and supply bottlenecks persist. It may be shorter if model efficiency, inference specialization, custom ASICs, and hyperscaler internal builds reduce external GPU demand.
 
-This is the same problem miners face with ASICs. The machine can be real, useful, and productive while still being a bad investment if purchased at the wrong point in the cycle.
+This is the same problem miners face with ASICs. A machine can be useful and productive while still being a poor investment if purchased at the wrong point in the cycle.
 
 ## Where the Opportunity Actually Is
 
@@ -127,7 +127,7 @@ That memory is valuable if applied honestly.
 
 ## Conclusion
 
-Neoclouds are real. The compute shortage is real. The hyperscaler capex cycle is real. The bitcoin-miner conversion opportunity is real. The mistake is treating all of that as proof of durable equity value.
+The opportunity should be taken seriously. Compute remains scarce, hyperscaler capex is still expanding, and some bitcoin miners do have valuable power and site assets that can be repurposed for AI infrastructure. The mistake is treating those facts as automatic proof of durable equity value.
 
 The correct framing is narrower and more useful: neoclouds are the AI cycle's miners. They monetize physical scarcity during a reflexive digital buildout. The best operators will become strategically important infrastructure companies. The weak ones will become overlevered owners of depreciating GPUs bought at peak scarcity.
 
