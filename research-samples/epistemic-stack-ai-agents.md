@@ -115,7 +115,7 @@ Agents operate in milliseconds. Human curation operates in hours or days. If an 
 
 ## The Meta-Question
 
-All of the above assumes stake-weighted knowledge graphs are the right primitive.
+All of the above assumes stake-weighted data networks are the right primitive.
 
 **What if they're not?**
 

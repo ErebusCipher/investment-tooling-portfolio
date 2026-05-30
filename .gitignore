@@ -14,3 +14,8 @@ __pycache__/
 dist/
 build/
 *.tsbuildinfo
+application-packet/anonymous-cv.pdf
+application-packet/anonymous-cv.html
+application-packet/cv-print.css
+application-packet/application-email.md
+application-packet/submission-checklist.md

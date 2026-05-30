@@ -4,7 +4,26 @@ Pseudonymous investment tooling portfolio: market dashboards, AI-assisted resear
 
 This repository is intentionally sanitized. It contains representative sample data and public-market examples, not private holdings, employer material, Telegram group lists, API keys, or personal identity metadata.
 
+## Review Path
+
+For fund or analyst-role review, start here:
+
+1. [`application-packet/README.md`](application-packet/README.md) - concise overview of the application package.
+2. [`application-packet/anonymous-cv.md`](application-packet/anonymous-cv.md) - pseudonymous CV.
+3. [`research-samples/short-theses/neoclouds-ai-cycle-miners.md`](research-samples/short-theses/neoclouds-ai-cycle-miners.md) - AI infrastructure thesis written for a post-AI public/private markets lens.
+4. [`market-systems/README.md`](market-systems/README.md) - live market dashboard systems.
+5. [`memo-pipeline/README.md`](memo-pipeline/README.md) - AI-assisted investment memo pipeline.
+
 ## Contents
+
+### `application-packet`
+
+Pseudonymous analyst application materials:
+
+- Anonymized CV
+- Draft application email
+- Curated review path
+- DeFiLlama contribution links
 
 ### `market-systems`
 
