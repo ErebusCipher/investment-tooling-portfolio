@@ -18,3 +18,11 @@ The `published-writing/` folder contains formatted PDF samples. The strongest an
 - `The Agent Economy Has a Token Problem.pdf`
 - `The Yield Trade Wearing a DeFi Costume.pdf`
 - `RWA Market Monitor.pdf`
+
+## Short Thesis Markdown
+
+The `short-theses/` folder contains GitHub-readable Markdown versions of the strongest short pieces:
+
+- `agent-economy-token-problem.md`
+- `yield-trade-defi-costume.md`
+- `rwa-market-monitor-template.md`
